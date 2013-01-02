@@ -6,7 +6,7 @@ It uses plain old markdown and generates a well structured HTML version of your 
 words. Since it's sitting on top of [Pandoc](http://johnmacfarlane.net/pandoc/) and
 [Grunt](http://gruntjs.com), you can easily make your books available for every platform!
 
-The Web Book Boilerplate is also compatible with [Leanpup](http://leanpub.com), so
+The Web Book Boilerplate is also compatible with [Leanpub](http://leanpub.com), so
 even publishing your books works like a charm.
 
 ## Features
