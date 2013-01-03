@@ -56,13 +56,13 @@ Following formats are supported:
 * <code>wbb:rtf</code> - rtf version
 
 If you want to publish your book on [leanpub.com](http://leanpub.com), wbb is your friend.
-It provides a task to prepare your leanpub publishing process. After running
+It provides a task to prepare your book for the LeanPub publishing process. After running
 
 ```
 $ grunt wbb:leanpub
 ```
 simply copy the contents of <code>builds/leanpub</code> into your <code>manuscript</code>
-folder which should be located in your dropbox.
+folder which should be located in your dropbox book folder.
 
 **Note:**
 Don't forget to update <code>src/Book.txt</code> and <code>src/Sample.txt</code>!
