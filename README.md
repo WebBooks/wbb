@@ -25,7 +25,7 @@ Follow [Web Books on Twitter](http://twitter.com/webbooks_org)
 
 ## Documentation
 
-Checkout the full documentation right [here](http://github.com/PascalPrecht/wbb/wiki)!
+Checkout the full documentation right [here](https://github.com/WebBooks/wbb/wiki)!
 
 ## Quickstart
 
