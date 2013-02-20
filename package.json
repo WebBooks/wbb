@@ -13,9 +13,9 @@
     "url": "git@github.com:PascalPrecht/wbb.git"
   },
   "dependencies": {
-    "grunt": "*",
-    "grunt-contrib": "*",
-    "grunt-shell": "*",
-    "grunt-sass": "*"
+    "grunt": "0.3",
+    "grunt-contrib": "0.3",
+    "grunt-shell": "0.1.4",
+    "grunt-sass": "0.2.5"
   }
 }
