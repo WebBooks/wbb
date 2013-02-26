@@ -84,6 +84,11 @@ $ grunt wbb:publish
 ```
 to execute all wbb tasks.
 
+
+## Caveats:
+
+The `build/*` directory contents are ignored by git - the reasoning for this is that the binary blobs cause problems for authors when merging in new versions of stuff from upstream (the Web Books repository). 
+
 ## Self-Promotion
 Like wbb? Follow the repo on [Github](https://github.com/WebBooks/wbb). Any open questions?
 Follow Pascal Precht on [Github](http://github.com/PascalPrecht) and [Twitter](http://twitter.com/PascalPrecht).
