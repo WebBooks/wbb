@@ -48,7 +48,7 @@ $ cd new-book
 $ npm install
 ```
 Ready to start! Write your book by creating chapter files in <code>src/chapters</code>.
-Since <code>v0.2.0</code> you can specify your chapters folder whereever you want. All you
+Since <code>v0.2.0</code> you can specify your chapters folder wherever you want. All you
 have to do, is to specify your chapter files in <code>src/Book.txt</code>. **Note that the
 order of generated chapters depends on the for of file names in Book.txt.**
 Add as many chapters as you want. wbb internally uses [Pandoc](http://johnmacfarlane.net/pandoc/);
